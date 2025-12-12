@@ -74,11 +74,11 @@
 
 7. Import `vietchill.sql` file vào database vừa tạo
 
-8. Paste URL này vào trình duyệt `http://localhost/vietchill/index.php`
+8. Paste URL này vào trình duyệt `http://localhost/a/DoAnCoSo/`
 
 9. Để truy cập trang quản lý, sử dụng link tài khoản sau:
     
-   `http://localhost/vietchill/admin/index.php`
+   `http://localhost/a/DoAnCoSo/admin/`
 
    `username:  holden`
    
